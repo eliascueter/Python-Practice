@@ -1,0 +1,25 @@
+START
+"Welcome to the ultimate geography quiz, its porpuse is to test your knowledge about counytries city capitals around the world"
+
+Username: 
+
+"Hi_ this quiz is composed of 3 questions each one is a 33% of your quiz so be sure to answer correctly. 
+You only have 2 attempts to answer each question. Good Luck _ "
+
+1. "Which is the capital of Colombia?"
+1 a. Colombia
+2 b. Santago
+3 c. Madrid
+
+2. "Which is the capital of Germany?"
+a. Brazilia
+b. Seul
+c. Berlin
+
+Which is the capital of France
+a. Venecia
+b. Helsinki
+c. Paris
+
+"Thanks for your time, keep it hard with geography, good bye _."
+STOP
